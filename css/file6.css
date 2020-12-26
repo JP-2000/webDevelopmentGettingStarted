@@ -1,0 +1,37 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  margin: 20rem;
+  padding: 2rem;
+  width: 12.5rem;
+  font-size: 2rem;
+  border-radius: 1rem;
+  background: none;
+  background-color: rgb(34, 168, 185);
+  border: 0.2rem solid black;
+  border-top-left-radius: 3rem;
+}
+
+h1 {
+  display: block;
+  font-size: 3rem;
+  background-color: rgb(34, 168, 185);
+  margin: 5rem;
+  padding: 5rem;
+}
+
+a {
+  display: inline-block;
+  background: rgb(34, 168, 185);
+  font-size: 3rem;
+  margin: 5rem;
+  padding: 5rem;
+}
